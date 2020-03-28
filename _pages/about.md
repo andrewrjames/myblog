@@ -1,23 +1,18 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Andrew Rafael James</strong>
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile pict.jpg
+  
 
 news: true
 social: true
 ---
 
-Hi, My name is Andrew Rafael James, a current Data Analyst at Tokopedia. I recently just graduated from my undergraduate, majoring in Finance at City University of Hong Kong [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello World! My name is Andrew Rafael James. I recently just graduated from my undergraduate degree, majoring in Finance at City University of Hong Kong. Currently, I am working as a Data Analyst at Tokopedia, the largest e-commerce company in Indonesia. I have a profound interest in data analytics, from utilizing data to drive impactful decision to story-telling data in a presentable and insighftul mannner. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Aside my keen interest in data, I also like reading books, playing badminton and binge-watching Netflix series. If you happen to know more about data, statistics, machine learning or anything related to operation reasarch, feel free to drop me a message on my [linkedin](https://www.linkedin.com/in/andrewrafael/){:target="\_blank"}. 
